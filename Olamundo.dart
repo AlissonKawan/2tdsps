@@ -1,1 +1,4 @@
-teste
+void main()
+{
+  print("ola dart");
+}
